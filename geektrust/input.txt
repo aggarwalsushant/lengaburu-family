@@ -1,0 +1,15 @@
+GET_RELATIONSHIP Krpi Sister-In-Law
+GET_RELATIONSHIP Satvy Brother-In-Law
+GET_RELATIONSHIP Krpi Sister-In-Law
+GET_RELATIONSHIP Asva Sister-In-Law
+GET_RELATIONSHIP Satvy Maternal-Aunt
+GET_RELATIONSHIP Yodhan Maternal-Aunt
+GET_RELATIONSHIP Dritha Paternal-Aunt
+GET_RELATIONSHIP Vila Paternal-Aunt
+GET_RELATIONSHIP Satvy Paternal-Aunt
+GET_RELATIONSHIP Vritha Paternal-Uncle
+GET_RELATIONSHIP Yodhan Paternal-Uncle
+GET_RELATIONSHIP Krithi Maternal-Uncle
+GET_RELATIONSHIP Atya Maternal-Uncle
+GET_RELATIONSHIP Amba Son
+GET_RELATIONSHIP Chit Siblings
